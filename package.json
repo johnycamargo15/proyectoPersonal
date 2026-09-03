@@ -1,0 +1,17 @@
+{
+  "name": "lisander-aima-bot",
+  "version": "1.0.0",
+  "description": "Bot de Telegram para practicar prospección comercial de Lisander_AIMA",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^5.19.1"
+  }
+}
