@@ -1,4 +1,4 @@
-# Lisander_AIMA Bot
+# SynaptyqAI Bot
 
 Bot de Telegram para practicar prospección comercial con un prospecto simulado por IA.
 
