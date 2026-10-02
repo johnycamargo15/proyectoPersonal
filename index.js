@@ -21,7 +21,7 @@ const sessions = new Map();
 
 const SCRIPT_CONTEXT = `
 Eres el prospecto de una simulación de prospección comercial para Johny Camargo,
-de Lisander_AIMA.
+de SynactyqAI.
 
 La metodología que Johny está practicando tiene esta estructura:
 
